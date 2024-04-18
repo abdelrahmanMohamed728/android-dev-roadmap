@@ -4,7 +4,7 @@ Welcome to the Android Development Roadmap repository! This guide is designed to
 
 ## Roadmap
 
-![Android Development Roadmap](path/to/roadmap_image.png)
+![Android Development Roadmap](E:\Android Development-1_page-0001.jpg)
 
 This image outlines the structured path I recommend for learning Android development. Follow along to understand the sequence of topics and technologies you should learn to become a proficient Android developer.
 
