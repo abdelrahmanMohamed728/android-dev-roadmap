@@ -4,7 +4,8 @@ Welcome to the Android Development Roadmap repository! This guide is designed to
 
 ## Roadmap
 
-![Android Development-1_page-0001](https://github.com/abdelrahmanMohamed728/android-dev-roadmap/assets/31102764/5bf26bd9-f498-4ca0-ba09-6ee4290d75ba)
+![Android Development-2_page-0001](https://github.com/abdelrahmanMohamed728/android-dev-roadmap/assets/31102764/59ac631f-d7a3-4e34-b609-bed3a3ca5eff)
+
 
 This image outlines the structured path I recommend for learning Android development. Follow along to understand the sequence of topics and technologies you should learn to become a proficient Android developer.
 
